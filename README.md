@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Owaise Farooqui 👋</h1>
-<h3 align="center">Principal Software Engineer | Full-Stack & Cloud Specialist</h3>
+<h3 align="center">Principal Software Engineer | Full-Stack Developer
 
 <p align="center">
   <a href="https://farooqui-owais.github.io/portfolio/" target="_blank">
@@ -25,8 +25,8 @@
 I am a **Principal Software Engineer** with **8+ years** of professional experience in designing, building, and scaling web applications, enterprise platforms, and high-performance cloud architectures. I specialize in backend architectures, microservices, and database optimization.
 
 * 🔭 **Current Focus:** Building scalable enterprise solutions, cloud integrations, and automation.
-* 🌱 **Learning & Exploring:** Deep diving into **LLM**, **RAG**, and **AI Agent** to build intelligent enterprise-grade microservices.
-* 💬 **Ask me about:** Python, PHP, Django, Magento 2, AWS, Docker, REST APIs, and System Design.
+* 🌱 **Learning & Exploring:** Deep diving into **LLM**, **RAG**, and **AI Agent** to build intelligent AI System.
+* 💬 **Ask me about:** Python, PHP, Django, Magento 2, AWS, Docker, REST APIs.
 * 📫 **Reach out:** [owais.khalilahmed@gmail.com](mailto:owais.khalilahmed@gmail.com)
 
 <br clear="both">
@@ -63,18 +63,6 @@ I am a **Principal Software Engineer** with **8+ years** of professional experie
 
 ---
 
-### 📊 GitHub Metrics
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=farooqui-owais&show_icons=true&theme=radical&hide_border=true" alt="Owaise's GitHub stats" height="180" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farooqui-owais&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="180" />
-  </a>
-</p>
-
----
 
 ### 🐍 Contribution Snake
 
